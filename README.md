@@ -13,4 +13,4 @@ My research interests include:
 
 &rArr; &rArr; &rArr; [To my GoogleScholar](https://scholar.google.com/citations?hl=zh-CN&user=yUQBEjAAAAAJ)  
 
-&rArr; &rArr; &rArr; [Download XJTU-SY Bearing Datasets](http://biaowang.tech/xjtu-sy-bearing-datasets/)
+&rArr; &rArr; &rArr; [Download XJTU-SY bearing datasets](http://biaowang.tech/xjtu-sy-bearing-datasets/)
