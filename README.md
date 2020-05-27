@@ -12,3 +12,5 @@ My research interests include:
 &rArr; &rArr; &rArr; [To my ResearchGate](https://www.researchgate.net/profile/Biao_Wang39)  
 
 &rArr; &rArr; &rArr; [To my GoogleScholar](https://scholar.google.com/citations?hl=zh-CN&user=yUQBEjAAAAAJ)  
+
+&rArr; &rArr; &rArr; [Download XJTU-SY Bearing Datasets](http://biaowang.tech/xjtu-sy-bearing-datasets/)
