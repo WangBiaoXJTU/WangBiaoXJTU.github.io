@@ -1,4 +1,4 @@
-# XJTU-SY Bearing Datasets
+# Biao Wang (王彪)
 
 Shared by by the Institute of Design Science and Basic Component at Xi’an Jiaotong University (XJTU), Shaanxi, P.R. China (http://gr.xjtu.edu.cn/web/yaguolei) and the Changxing Sumyoung Technology Co., Ltd. (SY), Zhejiang, P.R. China (https://www.sumyoungtech.com.cn).
 
