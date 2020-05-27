@@ -6,6 +6,6 @@ My name is Biao Wang (王彪). I am currently working toward the Ph.D. degree in
 
 My research interests include:  
 &infin; Deep Learning for diagnostics and prognostics  
-* Machinery condition monitoring  
-* Signal processing  
+&infin; Machinery condition monitoring  
+&infin; Signal processing  
 
