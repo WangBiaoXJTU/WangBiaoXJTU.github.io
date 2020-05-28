@@ -1,6 +1,6 @@
 # **Biao Wang (王彪)**
 
-:star2: A PhD student & PHM researcher
+:star2: A PhD student & PHM researcher :star2:
 
 ## Welcome to my website~  
 
