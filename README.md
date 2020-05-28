@@ -19,3 +19,8 @@ My name is **Biao Wang (王彪)**. I am currently working toward the Ph.D. degre
 &rArr; &rArr; &rArr; [To my GoogleScholar](https://scholar.google.com/citations?hl=zh-CN&user=yUQBEjAAAAAJ)  
 
 &rArr; &rArr; &rArr; [Download XJTU-SY bearing datasets](http://biaowang.tech/xjtu-sy-bearing-datasets/)
+&emsp;   
+&emsp;   
+&emsp;   
+
+陕ICP备19003461号-1
