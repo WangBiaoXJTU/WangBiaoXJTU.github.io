@@ -1,6 +1,6 @@
 ---
 layout: post
-title: XJTU-SY滚动轴承加速寿命实验集 / XJTU-SY Bearing Datasets
+title: XJTU-SY滚动轴承加速寿命实验数据集 / XJTU-SY Bearing Datasets
 image: 4.jpg
 updated_date: 2021-06-29 11:33:20 +0800
 date: 2021-06-28 10:35:20 +0800
