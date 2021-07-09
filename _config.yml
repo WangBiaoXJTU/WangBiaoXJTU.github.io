@@ -1,1 +1,47 @@
-theme: jekyll-theme-tactile
+title: 北京交通大学-王彪
+description: BJTU-Biao Wang, A PHM Researcher.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://biaowang.tech/" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Author
+author-name:    王彪 (Biao Wang)
+author-image:   biaowang.jpg
+author-job:     工学博士（机械工程）
+author-email:   wangbiaoxjtu@outlook.com # Add your email for contant form.
+author-datasets:   https://biaowang.tech/xjtu-sy-bearing-datasets/
+author-twitter:   # Add your twitter account
+author-researchgate:   https://www.researchgate.net/profile/Biao-Wang-27
+author-googlescholar:   https://scholar.google.com/citations?hl=zh-CN&user=yUQBEjAAAAAJ
+about-author:   
+
+# Social settings
+social-twitter:   
+social-facebook:   
+social-github:    
+social-pinterest:   
+social-instagram:   
+social-youtube:   
+social-vk:   
+social-linkedin:
+
+# Build settings
+markdown: kramdown
+permalink: /:title/
+plugins:
+  - jekyll-paginate
+
+paginate: 100
+paginate_path: "/page/:num/"
+
+include:
+  - _pages
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor

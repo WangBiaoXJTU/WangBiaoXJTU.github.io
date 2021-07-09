@@ -1,0 +1,60 @@
+---
+layout: post
+title: 个人简介 / About Me
+image: 1.jpg
+updated_date: 2021-06-28 13:35:20 +0800
+date: 2021-06-28 13:35:20 +0800
+introduction: Now, I am a Lecturer of the State Key Laboratory of Rail Traffic Control and Safety of Beijing Jiaotong University.
+tags:
+categories:
+---
+***
+## &#x1F393;&nbsp; <font face="Volkhov">教育与工作经历</font>
+
+>
+- <b>2021.7 &nbsp;&nbsp;&nbsp;至今 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北京交通大学，轨道交通控制与安全国家重点实验室，讲师、博士后，合作导师：秦勇 教授</b>
+<br><br>
+- <b>2016.9 ~ 2021.6 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 西安交通大学，机械工程，工学博士，导师：雷亚国 教授</b>
+<br><br>
+- <b>2014.9 ~ 2016.6 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 西安交通大学，航空宇航科学与技术，工学硕士，导师：刘马宝 教授</b>
+<br><br>
+- <b>2010.9 ~ 2014.6 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 西安交通大学，飞行器设计与工程（钱学森实验班），工学学士</b>
+
+<div align=center>
+<img src="/images/BJTU.jpg" height="100%" width="100%"/>
+</div>
+***
+## &#x1F68A;&nbsp; <font face="Volkhov">研究方向</font>
+>
+&#x23E9;&nbsp; <b> 轨交装备/通用机械<font color="dodgerblue"> &nbsp;&#x21AA;&nbsp; 状态精细化监测</font></b>
+<br><br>
+&#x23E9;&nbsp; <b> 轨交装备/通用机械<font color="dodgerblue">&nbsp;&#x21AA;&nbsp; 智能故障诊断</font></b>
+<br><br>
+&#x23E9;&nbsp; <b> 轨交装备/通用机械<font color="dodgerblue">&nbsp;&#x21AA;&nbsp; 剩余寿命预测</font></b>
+<br><br>
+&#x23E9;&nbsp;  <b> 轨交装备/通用机械<font color="dodgerblue">&nbsp;&#x21AA;&nbsp; AI<sup>+</sup>智能运维</font></b>
+<div align=center>
+<img src="/images/research.jpg" height="100%" width="100%"/>
+</div>
+
+***
+# &#x1F466; English Bio.
+> I received the B.S. degree in flight vehicle design and engineering in 2014, the M.S. degree in aeronautical and astronautical science and technology in 2016, and he Ph.D. degree in mechanical engineering from Xi’an Jiaotong University, Xi’an, P. R. China, in 2021. Since 2021, I have been a lecturer at the State Key Laboratory of Rail Traffic Control and Safety, Beijing Jiaotong University, Beijing , P. R. China.
+
+> My research interests include: 
+<br>
+&#x1F687;&nbsp; Condition monitoring of machinery
+<br>
+&#x1F687;&nbsp; Intelligent fault diagnostics
+<br>
+&#x1F687;&nbsp; Remaining useful life prediction
+<br>
+&#x1F687;&nbsp; AI-based maintenance
+
+> Contact:
+<br>
+&#x1F4E7;&nbsp; E-mail: wangbiaoxjtu@outlook
+<br>
+&#x1F3EB;&nbsp; Office: Beijing Jiaotong University, No.3 Shangyuancun, Haidian District, Beijing, 100044, P. R. China
+
+***

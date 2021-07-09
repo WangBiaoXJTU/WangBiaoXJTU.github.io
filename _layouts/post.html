@@ -1,0 +1,51 @@
+---
+layout: home
+---
+<article class="c-article">
+  <div class="c-article__content">
+    <header class="c-header u-hide u-no-margin-top">
+      <div class="c-header__box">
+        <div class="c-search u-full-width">
+          <div class="c-search__box">
+            <label for="js-search-input" class="u-screen-reader-text">Search for Blog</label>
+            <input type="text" id="js-search-input" class="c-search__text" autocomplete="off" placeholder="Type to search...">
+            <div data-icon='ei-search' data-size='s'></div>
+          </div>
+          <ul id="js-results-container" class="c-search-results-list"></ul>
+        </div>
+      </div>
+    </header>
+    {% if page.image %}
+    <div class="c-article__image o-opacity" style="background-image: url( {{"/images/" | prepend: site.baseurl | append : page.image}} )"></div>
+    {% else %}
+    {% endif %}
+    <div class="c-wrap-content">
+      <header class="c-article__header">
+        <h1 class="c-article__title" style="font-weight:bold; font-size:32px;font-family:Volkhov;color:dark">{{page.title}}</h1>
+        <div class="c-article__date">
+          <span style="text-transform: none">Updated on&nbsp;{{page.updated_date | date: '%d %b %Y'}}</span>
+        </div>
+      </header>
+      {{page.content | markdownify}}
+      <div class="c-recent-post">
+        <h4 class="c-recent__title" style="font-weight:bold; font-size:22px;font-family:Volkhov;color:dark">You might also enjoy</h4>
+        <div class="c-recent__box">
+        {% for post in site.related_posts limit:3 %}
+        {% if post.image %}
+          <div class="c-recent__item">
+            <a class="c-recent__image" href="{{ post.url }}" style="background-image: url( {{"/images/" | prepend: site.baseurl | append: post.image}})"></a>
+            <div class="c-recent__footer">
+              <h4><a href="{{ post.url }}" style="font-weight:bold; font-size:16px;font-family:Volkhov;color:rgb(0,69,159)">{{ post.title }}</a></h4>
+              <div class="c-recent__date">
+                <time datetime="{{ post.date | date_to_xmlschema }}">{{post.updated_date | date: "%B %-d, %Y"}}</time>
+              </div>
+            </div>
+          </div>
+        {% else %}
+        {% endif %}
+        {% endfor %}
+        </div>
+      </div> <!-- /.c-recent-post -->
+    </div> <!-- /.c-wrap-content -->
+  </div> <!-- /.c-article__content -->
+</article> <!-- /.c-article-page -->

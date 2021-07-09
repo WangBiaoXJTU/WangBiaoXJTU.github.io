@@ -1,26 +1,52 @@
-# **Biao Wang (王彪)**
+<h1>Flexton is an ultra-minimalist and responsive theme for Jekyll</h1>
 
-A PhD student & PHM researcher
+<p>Flexton created especially for those who appreciate minimalism and functionality.</p>
+<p>Amazing flexibility with pleasant colors and custom design makes Flexton a simple theme, suitable for almost any blog.</p>
 
-## Welcome to my website~  
- 
-My name is **Biao Wang (王彪)**. I am currently working toward the Ph.D. degree in mechanical engineering at the Key Laboratory of Education Ministry for Modern Design and Rotor-Bearing System, Xi’an Jiaotong University, P. R. China. He received the B.S. and M.S. degrees in aeronautical and astronautical science and technology from Xi’an Jiaotong University, Xi’an, P. R. China, in 2014 and 2016, respectively.
-&emsp;   
-&emsp;   
+<h2>Demo</h2>
 
-**My research interests include:  
-&infin; Deep Learning for diagnostics and prognostics  
-&infin; Machinery condition monitoring  
-&infin; Signal processing**  
-&emsp;   
+Check the theme in action [Demo](https://flexton.netlify.com/)
 
-&rArr; &rArr; &rArr; [To my ResearchGate](https://www.researchgate.net/profile/Biao_Wang39)  
+![Page preview](https://github.com/artemsheludko/flexton/blob/master/images/preview.png?raw=true)
 
-&rArr; &rArr; &rArr; [To my GoogleScholar](https://scholar.google.com/citations?hl=zh-CN&user=yUQBEjAAAAAJ)  
+<h2>Features</h2>
 
-&rArr; &rArr; &rArr; [Download XJTU-SY bearing datasets](http://biaowang.tech/xjtu-sy-bearing-datasets/)
-&emsp;   
-&emsp;   
-&emsp;   
+<ul>
+	<li>100% responsive and clean theme</li>
+ 	<li>Optimized for mobile devices</li>
+	<li>Valid HTML5 code</li>
+	<li>Included site search</li>
+	<li>Contact Page</li>
+	<li>Post sharing</li>
+	<li>Supports Mail Chimp Subscriber</li>
+	<li>Supports Disqus Comments</li>
+	<li>Social Media Profiles</li>
+	<li>Contact Form - FormsPree</li>
+	<li>Evil Icons</li>
+	<li>Google Fonts</li>
+</ul>
 
-###### `陕ICP备19003461号-1`
+<h2>Credits</h2>
+
+<p>I have used the following scripts, fonts or other files as listed.</p>
+
+<ul>
+  <li><a href="https://fonts.google.com/">Google Fonts</a> (Volkhov, Open Sans).</li>
+  <li><a href="http://evil-icons.io/">Evil Icons</a></li>
+  <li><a href="http://fitvidsjs.com/">FitVids.js</a></li>
+  <li><a href="https://jquery.com/">jQuery.com</a></li>
+  <li><a href="https://github.com/christian-fei/Simple-Jekyll-Search">Simple-Jekyll-Search</a></li>
+  <li>Preview Images form <a href="https://unsplash.com/">unsplash.com</a>, <a href="https://www.pexels.com/">pexels.com</a></li>
+</ul>
+
+<h2>Deployment</h2>
+
+To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec serve` to start the Jekyll server.
+
+I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
+
+<h2>Buy me a coffee</h2>
+
+<p>If you want to show your appreciation, buy me one <a href="https://www.buymeacoffee.com/artemsheludko" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> ! Every five cups of coffee and a new theme for Jekyll is ready 😋</p>
+<p>Either way, your support is a way to thank me ❤️</p>
+<p align="center"><b>Thank you for your support!</b></p>

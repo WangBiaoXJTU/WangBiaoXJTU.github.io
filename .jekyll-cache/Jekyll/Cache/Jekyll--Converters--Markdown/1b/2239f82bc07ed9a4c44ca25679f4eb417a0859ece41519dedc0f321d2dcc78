@@ -1,0 +1,6 @@
+I"<hr />
+<h1 id="dataset-overview">Dataset Overview</h1>
+<blockquote>
+  <p>XJTU-SY bearing datasets are provided by <a href="http://gr.xjtu.edu.cn/web/yaguolei">the Institute of Design Science and Basic Component at Xi’an Jiaotong University (XJTU), Shaanxi, P.R. China</a> and <a href="https://www.sumyoungtech.com.cn">the Changxing Sumyoung Technology Co., Ltd. (SY), Zhejiang, P.R. China</a>. The datasets contain complete run-to-failure data of 15 rolling element bearings that were acquired by conducting many accelerated degradation experiments. These datasets are publicly available and anyone can use them to validate prognostics algorithms of rolling element bearings. Publications making use of the XJTU-SY bearing datasets are requested to cite the following paper.</p>
+</blockquote>
+:ET

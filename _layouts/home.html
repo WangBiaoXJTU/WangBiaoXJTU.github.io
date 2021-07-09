@@ -1,0 +1,94 @@
+---
+layout: default
+---
+<aside class="c-sidebar">
+  <div class="c-sidebar-author">
+    <div class="c-author__cover">
+      <a href="{{site.baseurl}}/">
+        <img src="{{site.baseurl}}/images/{% if site.author-image %}{{site.author-image}}{% endif %}" alt="{{site.author-name}}">
+      </a>
+    </div>
+    </p>
+    <div class="c-author__info">
+      <div class="c-author__name" style="font-weight:bold; font-size:24px;font-family:Volkhov;color:rgb(0,69,159)">{{site.author-name}}</div>
+      </p>
+      <span class="c-author__job" style="font-size:16px;font-family:Volkhov;color:rgb(127,127,127)">{{site.author-job}}</span>
+      </p>
+      <p class="c-author__about" style="font-size:16px;font-family:Volkhov;color:rgb(127,127,127)">北京交通大学轨道交通控制与安全<br>国家重点实验室&nbsp;&nbsp;&nbsp;&nbsp;讲师</p>
+    </div>
+    <div class="c-contact-menu">
+      {% if site.author-email %}
+      <a href="/about-me" style="display:inline-block; text-align:left; font-size:14px; width: 255px; height: 40px;" class="c-contact-btn c-btn c-btn--primary c-btn--round c-btn--shadow"><span data-icon='ei-envelope' data-size='m'></span> &nbsp;wangbiaoxjtu@outlook.com</a>
+      {% else %}
+      {% endif %}
+      </p>
+      {% if site.author-twitter %}
+      <a href="https://twitter.com/intent/user?screen_name={{ site.social-twitter }}" class="c-btn c-btn--primary c-btn--round c-btn--shadow"><span data-icon='ei-sc-twitter' data-size='s'></span> Follow me</a>
+      {% else %}
+      {% endif %}
+      </p>
+      {% if site.author-researchgate %}
+      <a href="https://www.researchgate.net/profile/Biao-Wang-27" style="display:inline-block; text-align:left; font-size:14px; width: 255px; height: 40px;" class="c-btn c-btn--primary c-btn--round c-btn--shadow"><span data-icon='ei-trophy' data-size='l'></span> &nbsp;Biao's ResearchGate </a>
+      {% else %}
+      {% endif %}
+      </p>
+      {% if site.author-googlescholar %}
+      <a href="https://scholar.google.com/citations?hl=zh-CN&user=yUQBEjAAAAAJ" style="display:inline-block; text-align:left; font-size:14px; width: 255px; height: 40px;" class="c-btn c-btn--primary c-btn--round c-btn--shadow"><span data-icon='ei-star' data-size='l'></span> &nbsp;Biao's GoogleScholar </a>
+      {% else %}
+      {% endif %}
+      </p>
+      {% if site.author-datasets %}
+      <a href="https://biaowang.tech/xjtu-sy-bearing-datasets/" style="display:inline-block; text-align:left; font-size:14px; width: 255px; height: 40px;" class="c-btn c-btn--primary c-btn--round c-btn--shadow"><span data-icon='ei-spinner' data-size='l'></span> &nbsp;XJTU-SY Bearing Datasets </a>
+      {% else %}
+      {% endif %}
+    </div>
+  </div>
+
+  <div class="c-sidebar-footer">
+    <div class="c-social">
+      <div class="c-social__title" style="font-weight:bold; font-size:16px; font-family:Volkhov">研究团队</div>
+      <ul class="c-social__list u-lists-reset">
+        <a href="https://rtlab.bjtu.edu.cn/news/265.html"><img border="0" src="/images/team.jpg" height="93" width="354" /></a>
+        {% if site.social-twitter %}
+          <li class="c-social__item"><a href="https://twitter.com/{{ site.social-twitter }}" target="_blank"><div data-icon='ei-sc-twitter' data-size='l'></div></a></li>
+        {% else %}
+        {% endif %}
+        {% if site.social-facebook %}
+          <li class="c-social__item"><a href="https://facebook.com/{{ site.social-facebook }}" target="_blank"><div data-icon='ei-sc-facebook' data-size='l'></div></a></li>
+        {% else %}
+        {% endif %}
+        {% if site.social-github %}
+          <li class="c-social__item"><a href="https://github.com/{{site.social-github}}" target="_blank"><div data-icon='ei-sc-github' data-size='l'></div></a></li>
+        {% else %}
+        {% endif %}
+        {% if site.social-pinterest %}
+          <li class="c-social__item"><a href="https://pinterest.com/{{site.social-pinterest}}" target="_blank"><div data-icon='ei-sc-pinterest' data-size='l'></div></a></li>
+        {% else %}
+        {% endif %}
+        {% if site.social-instagram %}
+          <li class="c-social__item"><a href="https://instagram.com/{{ site.social-instagram }}" target="_blank"><div data-icon='ei-sc-instagram' data-size='l'></div></a></li>
+        {% else %}
+        {% endif %}
+        {% if site.social-youtube %}
+          <li class="c-social__item"><a href="https://youtube.com/{{ site.social-youtube }}" target="_blank"><div data-icon='ei-sc-youtube' data-size='l'></div></a></li>
+        {% else %}
+        {% endif %}
+        {% if site.social-vk %}
+          <li class="c-social__item"><a href="https://vk.com/{{ site.social-vk }}" target="_blank"><div data-icon='ei-sc-vk' data-size='l'></div></a></li>
+        {% else %}
+        {% endif %}
+        {% if site.social-linkedin %}
+          <li class="c-social__item"><a href="https://in.linkedin.com/in/{{site.social-linkedin}}" target="_blank"><div data-icon='ei-sc-linkedin' data-size='l'></div></a></li>
+        {% else %}
+        {% endif %}
+      </ul>
+    </div>
+    <div class="c-copyright">
+      <p>{{site.time | date: '%Y'}} &copy; {{site.author-name}} &ensp;&ensp;&ensp;Powered by <a href="https://flexton.netlify.com/">Flexton</a></p>
+    </div>
+  </div>
+</aside> <!-- /.c-sidebar -->
+
+<main class="c-content">
+  {{ content }}
+</main> <!-- /.c-content -->
