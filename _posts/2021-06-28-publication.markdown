@@ -14,9 +14,9 @@ categories:
 
 ***
 # 2020
-> * __Biao Wang__, Yaguo Lei*, Naipeng Li, and Ningbo Li. [A hybrid prognostics approach for estimating remaining useful life of rolling element bearings](https://ieeexplore.ieee.org/document/8576668) [J]. _IEEE Transactions on Reliability_, 2020, 69(1): 401-412.（ESI热点论文与ESI高被引论文）
+> * __Biao Wang__, Yaguo Lei*, Naipeng Li, and Ningbo Li. [A hybrid prognostics approach for estimating remaining useful life of rolling element bearings](https://ieeexplore.ieee.org/document/8576668) [J]. _IEEE Transactions on Reliability_, 2020, 69(1): 401-412.（ESI热点论文、ESI高被引论文）
 
-> * __Biao Wang__, Yaguo Lei*, Tao Yan, Naipeng Li, and Liang Guo. [Recurrent convolutional neural network: A new framework for remaining useful life prediction of machinery](https://www.sciencedirect.com/science/article/pii/S0925231219315024?via%3Dihub) [J]. _Neurocomputing_, 2020, 379: 117-129.
+> * __Biao Wang__, Yaguo Lei*, Tao Yan, Naipeng Li, and Liang Guo. [Recurrent convolutional neural network: A new framework for remaining useful life prediction of machinery](https://www.sciencedirect.com/science/article/pii/S0925231219315024?via%3Dihub) [J]. _Neurocomputing_, 2020, 379: 117-129.（ESI国际学术研究前沿、ESI高被引论文）
 
 > * Xinwei Jiang, __Biao Wang__, Yaguo Lei*, and Naipeng Li. [An adaptable cost-sensitive imbalanced fault diagnosis method considering sample-significance information](https://ieeexplore.ieee.org/document/9353142) [C]. _2020 International Conference on Sensing, Diagnostics, Prognostics and Control_, 2020.（Best Paper Award）
 
