@@ -12,7 +12,7 @@ categories:
 # 2022
 > * __王彪__, 秦勇*，贾利民，程晓卿，曾春平，高一凡. [监测数据驱动的城轨列车轴箱轴承剩余寿命预测](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C45S0n9fL2suRadTyEVl2pW9UrhTDCdPD65IXe8xbsrGOBYvzK2wmtTicAVnqgLITAWD_cwlSxsindOPfkwznS6x&uniplatform=NZKPT)[J]. _西南交通大学学报_, 2022, 1-9.
 > * 任翔宇，秦勇，__王彪*__，贾利民，程晓卿. 基于博弈映射学习的多传感源信息融合三相电机智能故障诊断方法[J]. _电工技术学报_, 2022, 1-14.
-> * Ao Ding, Yong Qin, __Biao Wang*__, Limin Jia, and Xiaoqing Cheng. [Lightweight multiscale convolutional networks with adaptive pruning for intelligent fault diagnosis of train bogie bearings in edge computing scenarios](https://ieeexplore.ieee.org/document/9996425) [J]. _IEEE Transactions on Instrumentation and Measurement_, 2023, 72: 1-13.
+> * Ao Ding, Yong Qin, __Biao Wang*__, Limin Jia, and Xiaoqing Cheng. [Lightweight multiscale convolutional networks with adaptive pruning for intelligent fault diagnosis of train bogie bearings in edge computing scenarios](https://ieeexplore.ieee.org/document/9996425) [J]. _IEEE Transactions on Instrumentation and Measurement_, 2023, 72: 1-13.<mark><b>（New Work!）</b></mark>
 > * Xiangyu Ren, __Biao Wang*__, Yong Qin, Limin Jia. [Adversarial Embedding Fusion Network for Multi-sensor Fusion Fault Diagnosis of Wheelset Bearings](https://ieeexplore.ieee.org/abstract/document/9942198)[C]. _2022 Global Reliability and Prognostics and Health Management Conference (PHM-Yantai)_, 2022.
 
 ***
