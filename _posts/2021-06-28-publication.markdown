@@ -3,7 +3,7 @@ layout: post
 title: 代表性论文 / Publication
 image: 3.jpg
 updated_date: 2023-03-04 17:15:20 +0800
-date: 2023-03-04 17:15:20 +0800
+date: 2021-06-28 11:35:20 +0800
 introduction: Some representative publications, including research articles, conference paper, etc.
 tags:
 categories:
