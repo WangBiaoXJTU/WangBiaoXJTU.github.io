@@ -9,6 +9,13 @@ tags:
 categories:
 ---
 ***
+# 2023
+> Ao Ding, Yong Qin, __Biao Wang*__, Xiaoqing Cheng, Limin Jia. An elastic expandable fault diagnosis method of three-phase motors using continual learning for class-added sample accumulations [J]. IEEE Transactions on Industrial Electronics, 2023, 1-10. DOI: 10.1109/TIE.2023.3301546
+> Ao Ding, Yong Qin, __Biao Wang*__, et al. A class-added continual learning method for motor fault diagnosis based on knowledge distillation of representation proximity behavior[C]. 2023 IEEE International Conference on Prognostics and Health Management (ICPHM). IEEE, 2023: 224-231.（优秀论文奖）
+> __Biao Wang__, Xiangyu Ren, Yong Qin*, et al. A new convolutional prognostics network with adaptive kernels for estimating remaining useful life of bearings considering variable speed[C].2023 Prognostics and Health Management Conference (PHM). IEEE, 2023: 122-127.
+> Xiangyu Ren, Haiquan Qiu, Dawei Chen, et al. A continual learning framework with adaptive synapses for remaining useful life prediction[C].  2023 IEEE Global Reliability & Prognostics and Health Management Conference (PHM-HangZhou 2023). IEEE, 2023.
+
+***
 # 2022
 > * __王彪__, 秦勇*，贾利民，程晓卿，曾春平，高一凡. [监测数据驱动的城轨列车轴箱轴承剩余寿命预测](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C45S0n9fL2suRadTyEVl2pW9UrhTDCdPD65IXe8xbsrGOBYvzK2wmtTicAVnqgLITAWD_cwlSxsindOPfkwznS6x&uniplatform=NZKPT)[J]. _西南交通大学学报_, 2023, 58(3): 1-9.
 > * 任翔宇，秦勇，__王彪*__，贾利民，程晓卿. [基于博弈映射学习的多传感源信息融合三相电机智能故障诊断方法](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C45S0n9fL2suRadTyEVl2pW9YIceDQQhWr8MVX8BVGDdi3Jnsujr8iyJCuL9dbRlVkekQaNy8rFSHb0NBUujp8F0r1dhux9fPzM%3d&uniplatform=NZKPT)[J]. _电工技术学报_, 2022, 1-14.
