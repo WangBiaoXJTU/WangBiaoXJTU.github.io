@@ -2,7 +2,7 @@
 layout: post
 title: 代表性论文 / Publication
 image: 3.jpg
-updated_date: 2023-03-04 17:15:20 +0800
+updated_date: 2023-08-24 17:15:20 +0800
 date: 2021-06-28 11:35:20 +0800
 introduction: Some representative publications, including research articles, conference paper, etc.
 tags:
@@ -10,10 +10,10 @@ categories:
 ---
 ***
 # 2023
-> * Ao Ding, Yong Qin, __Biao Wang*__, Xiaoqing Cheng, Limin Jia. An elastic expandable fault diagnosis method of three-phase motors using continual learning for class-added sample accumulations [J]. IEEE Transactions on Industrial Electronics, 2023, 1-10. DOI: 10.1109/TIE.2023.3301546
-> * Ao Ding, Yong Qin, __Biao Wang*__, et al. A class-added continual learning method for motor fault diagnosis based on knowledge distillation of representation proximity behavior[C]. 2023 IEEE International Conference on Prognostics and Health Management (ICPHM). IEEE, 2023: 224-231.（优秀论文奖）
-> * __Biao Wang__, Xiangyu Ren, Yong Qin*, et al. A new convolutional prognostics network with adaptive kernels for estimating remaining useful life of bearings considering variable speed[C].2023 Prognostics and Health Management Conference (PHM). IEEE, 2023: 122-127.
-> * Xiangyu Ren, Haiquan Qiu, Dawei Chen, et al. A continual learning framework with adaptive synapses for remaining useful life prediction[C].  2023 IEEE Global Reliability & Prognostics and Health Management Conference (PHM-HangZhou 2023). IEEE, 2023.
+> * Ao Ding, Yong Qin, __Biao Wang*__, Xiaoqing Cheng, Limin Jia. [An elastic expandable fault diagnosis method of three-phase motors using continual learning for class-added sample accumulations ](https://ieeexplore.ieee.org/abstract/document/10219046)[J]. _IEEE Transactions on Industrial Electronics_, 2023, 1-10. DOI: 10.1109/TIE.2023.3301546 <mark><b>（New Work!）</b></mark>
+> * Ao Ding, Yong Qin, __Biao Wang*__, et al. [A class-added continual learning method for motor fault diagnosis based on knowledge distillation of representation proximity behavior](https://ieeexplore.ieee.org/abstract/document/10193966)[C]. _2023 IEEE International Conference on Prognostics and Health Management (ICPHM)_. IEEE, 2023: 224-231.（优秀论文奖）
+> * __Biao Wang__, Xiangyu Ren, Yong Qin*, et al. [A new convolutional prognostics network with adaptive kernels for estimating remaining useful life of bearings considering variable speed](https://ieeexplore.ieee.org/abstract/document/10159308)[C]. _2023 Prognostics and Health Management Conference (PHM)_. IEEE, 2023: 122-127.
+> * Xiangyu Ren, Haiquan Qiu, Dawei Chen, et al. A continual learning framework with adaptive synapses for remaining useful life prediction[C]. _2023 IEEE Global Reliability & Prognostics and Health Management Conference (PHM-HangZhou 2023)_. IEEE, 2023.
 
 ***
 # 2022
