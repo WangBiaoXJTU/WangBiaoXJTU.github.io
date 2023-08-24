@@ -24,7 +24,7 @@ categories:
 
 ***
 # 2021
-> * __Biao Wang__, Yaguo Lei*, Naipeng Li, and Wenting Wang. [Multi-scale convolutional attention network for predicting remaining useful life of machinery](https://ieeexplore.ieee.org/document/9126224) [J]. _IEEE Transactions on Industrial Electronics_, 2021, 68(8): 7496-7504.<mark><b>（ESI高被引论文）</b></mark>
+> * __Biao Wang__, Yaguo Lei*, Naipeng Li, and Wenting Wang. [Multi-scale convolutional attention network for predicting remaining useful life of machinery](https://ieeexplore.ieee.org/document/9126224) [J]. _IEEE Transactions on Industrial Electronics_, 2021, 68(8): 7496-7504.<mark><b>（ESI热点论文、ESI高被引论文）</b></mark>
 
 ***
 # 2020
